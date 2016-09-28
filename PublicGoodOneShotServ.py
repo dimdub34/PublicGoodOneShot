@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from twisted.internet import defer
-import pandas as pd
-import matplotlib.pyplot as plt
 import logging
 from collections import OrderedDict
 from util import utiltools
@@ -30,7 +28,7 @@ class Serveur(object):
             lambda _: self._le2mserv.gestionnaire_experience.\
             display_payoffs_onserver("PublicGoodOneShot")
         self._le2mserv.gestionnaire_graphique.add_topartmenu(
-            u"Public Good Game", actions)
+            u"Public Good - One shot", actions)
 
     def _configure(self):
         self._le2mserv.gestionnaire_graphique.display_information(

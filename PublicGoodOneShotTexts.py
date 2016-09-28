@@ -12,12 +12,9 @@ import PublicGoodOneShotParams as pms
 import gettext
 
 
-localedir = os.path.join(params.getp("PARTSDIR"), "PublicGoodGame", "locale")
+localedir = os.path.join(params.getp("PARTSDIR"), "PublicGoodOneShot", "locale")
 trans_PGOS = gettext.translation(
-    "PublicGoodGame", localedir, languages=[params.getp("LANG")]).ugettext
-
-
-TITLE_MSG = namedtuple("TITLE_MSG", "titre message")
+    "PublicGoodOneShot", localedir, languages=[params.getp("LANG")]).ugettext
 
 
 def get_histo_head():
