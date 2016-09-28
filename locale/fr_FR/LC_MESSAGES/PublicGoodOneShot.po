@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Public Good One Shot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 09:32+0200\n"
+"PO-Revision-Date: 2016-09-28 09:35+0200\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: Dimitri DUBOIS <dimitri.dubois@umontpellier.fr>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:23
+msgid "Configure"
+msgstr "Configurer"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:24
+msgid "Display parameters"
+msgstr "Afficher les paramètres"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:28
+msgid "Start"
+msgstr "Démarrer"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:29
+msgid "Display payoffs"
+msgstr "Afficher les gains"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:37
+msgid "There is no nothing to configure"
+msgstr "Il n'y a aucun paramètre à configurer"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:50
+msgid "The number of players is not compatible with the group size"
+msgstr "Le nombre de joueurs n'est pas compatible avec la taille de groupe"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotServ.py:94
+msgid "Total amount by group"
+msgstr "Total par groupe"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:24
+msgid ""
+"Individual\n"
+"account"
+msgstr ""
+"Compte\n"
+"individuel"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:25
+msgid ""
+"Public\n"
+"account"
+msgstr ""
+"Compte\n"
+"Collectif"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:25
+msgid ""
+"Public\n"
+"account\n"
+"group"
+msgstr ""
+"Compte\n"
+"Collectif\n"
+"Groupe"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:26
+msgid "Payoff"
+msgstr "Gain"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:30
+msgid "You have an endowment of {} tokens."
+msgstr "Vous disposez d'une dotation de {} jetons."
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:34
+msgid "Please enter the number of token(s) you put on the public account"
+msgstr ""
+"Saisissez le nombre de jetons que vous placez sur le compte collectif."
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:39
+msgid ""
+"You put {} in your individual account and {} in the public account. Your "
+"group put {} in the public account.\n"
+"Your payoff is equal to {}."
+msgstr ""
+"Vous avez placé {} sur votre compte individuel et {} sur le compte "
+"collectif. Votre groupe a placé {} sur le compte collectif.\n"
+"Votre gain est de {}."
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:43
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:44
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotTexts.py:45
+msgid "token"
+msgstr "jeton"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/PublicGoodOneShot/PublicGoodOneShotGui.py:42
+msgid "Decision"
+msgstr "Décision"

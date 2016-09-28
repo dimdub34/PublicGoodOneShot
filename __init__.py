@@ -1,0 +1,1 @@
+import PublicGoodOneShotPart  # for sqlalchemy
